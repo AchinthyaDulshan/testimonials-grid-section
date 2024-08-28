@@ -1,5 +1,5 @@
 import React from 'react'
-import ImageDaniel from '../assets/images/image-daniel.jpg'
+
 import { Testimonials } from './Testimonials'
 import TestimonialsCard from './TestimonialsCard'
 
